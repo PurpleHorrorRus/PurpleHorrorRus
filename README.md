@@ -8,9 +8,11 @@ Age: 24 y.o.<br/>
 🎵 Currently developing [Meridius](https://github.com/PurpleHorrorRus/Meridius) - Music Player for vk.com based on Electron, NuxtJS, Vue.<br/>
 👍 Feel free to fork and contribute any repo.<br/>
 
-If you want to contact with me:<br/>
-✉️ [Telegram](https://t.me/InfiniteHorror)<br/>
-📫 email: purplehorrorrus@gmail.com (For a job offer: Nikifor0w@yandex.ru)
+ 
+<div> 
+    <a href = "mailto:purplehorrorrus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail"></a>
+    <a href="https://t.me/infinitehorror"><img src="https://img.shields.io/badge/-Telegram-%23332?style=for-the-badge&logo=telegram"></a>
+</div>
 
 ---
 
@@ -22,7 +24,8 @@ If you want to contact with me:<br/>
   <img alt="mongodb" src="https://img.shields.io/badge/mondodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=FFFFFF">
   <img alt="html5" src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=FFFFFF">
   <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=000000">
-  <img alt="git" src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=FFFFFF">
+  <img alt="typescript" src="https://shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF">
+  <img alt="git" src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=FFFFFF">
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-E10098?style=for-the-badge&logo=github-actions&logoColor=FFFFFF" />
   <img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=FFFFFF">
 </p>
