@@ -11,7 +11,7 @@ Age: 24 y.o.<br/>
  
 <div> 
     <a href = "mailto:purplehorrorrus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail"></a>
-    <a href="https://t.me/infinitehorror"><img src="https://img.shields.io/badge/-Telegram-%23332?style=for-the-badge&logo=telegram"></a>
+    <a href="https://t.me/infinitehorror"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram"></a>
 </div>
 
 ---
