@@ -5,7 +5,6 @@ Age: 24 y.o.<br/>
 
 💞️ I like to develop useful applications for users.<br/>
 🌱 I’m currently looking for a job, to code and grow as a specialist.<br/>
-🎵 Currently developing [Meridius](https://github.com/PurpleHorrorRus/Meridius) - Music Player for vk.com based on Electron, NuxtJS, Vue.<br/>
 👍 Feel free to fork and contribute any repo.<br/>
 
  
