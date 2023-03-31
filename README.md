@@ -4,7 +4,7 @@ Age: 25 y.o.<br/>
 🇬🇧 English Skills: Listening, Reading, Writing, Grammar
 
 💞️ I like to develop useful applications for users.<br/>
-🌱 I’m currently looking for a job, to code and grow as a specialist.<br/>
+🌱 I’m currently working for a wonderful company and growing as a specialist.<br/>
 👍 Feel free to fork and contribute any repo.<br/>
 
  
