@@ -7,12 +7,6 @@ Age: 25 y.o.<br/>
 🌱 I’m currently working for a wonderful company and growing as a specialist.<br/>
 👍 Feel free to fork and contribute any repo.<br/>
 
- 
-<div> 
-    <a href = "mailto:purplehorrorrus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail"></a>
-    <a href="https://t.me/infinitehorror"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram"></a>
-</div>
-
 ---
 
 <p align="center">
